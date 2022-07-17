@@ -1,5 +1,0 @@
-DALL-E 2
-3.5B Paramater
-1.5B Paramater for upscaling
-Limited misuse harmfull generations
-
